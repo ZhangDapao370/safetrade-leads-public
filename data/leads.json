@@ -1,0 +1,314 @@
+{
+  "schema_version": "1.0",
+  "public_read_only": true,
+  "generated_at": "2026-07-16T01:00:43.770958+00:00",
+  "timezone": "Asia/Shanghai",
+  "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
+  "summary": {
+    "total": 17,
+    "highPriority": 9,
+    "withContacts": 11
+  },
+  "items": [
+    {
+      "title": "Compute Substrate ($CSD) has been listed on SafeTrade!",
+      "project_name": "Compute Substrate",
+      "symbol": "CSD",
+      "listed_type": "listed",
+      "published_at": "2026-07-10 01:11:37",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/47260097473549-Compute-Substrate-CSD-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://computesubstrate.org/"
+      ],
+      "contact_links": [
+        "https://github.com/compute-substrate/compute-substrate",
+        "https://discord.gg/6WthwsxuQH"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "modelOS ($MDL) has been listed on SafeTrade!",
+      "project_name": "modelOS",
+      "symbol": "MDL",
+      "listed_type": "listed",
+      "published_at": "2026-07-07 08:39:39",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/47186756547853-modelOS-MDL-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://modeloslab.xyz/"
+      ],
+      "contact_links": [
+        "https://discord.gg/MZwtxBZBH7",
+        "https://github.com/modeloslab/modelos"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "Satori ($SAT) relisted on SafeTrade!",
+      "project_name": "Satori",
+      "symbol": "SAT",
+      "listed_type": "relisted",
+      "published_at": "2026-07-04 02:51:58",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/47126558944525-Satori-SAT-relisted-on-SafeTrade",
+      "project_links": [
+        "https://cryptoscope.io/evrmore/asset/?asset_id=f4456649be4108b2f0cfadda051ee14b5df6e06f",
+        "https://satorinet.io"
+      ],
+      "contact_links": [
+        "https://twitter.com/Evrcoin",
+        "https://discord.gg/4csauGuvw3",
+        "https://t.me/Evrmorecoin",
+        "https://github.com/EvrmoreOrg",
+        "https://satorinet.io/team",
+        "https://discord.gg/va6FK77R3F",
+        "https://x.com/SatoriAssoc",
+        "https://www.youtube.com/@satoriassociation",
+        "https://www.linkedin.com/company/satorinet",
+        "https://github.com/SatoriNetwork"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "Pearl ($PRL) has been listed on SafeTrade!",
+      "project_name": "Pearl",
+      "symbol": "PRL",
+      "listed_type": "listed",
+      "published_at": "2026-05-21 02:18:28",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/46016657484173-Pearl-PRL-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://pearlresearch.ai/"
+      ],
+      "contact_links": [
+        "mailto:support@pearlresearch.ai",
+        "https://discord.gg/joinpearl",
+        "https://twitter.com/prlnet",
+        "https://github.com/pearl-research-labs",
+        "https://www.youtube.com/@PearlResearchLabs"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "Kerrigan ($KRGN) has been listed on SafeTrade!",
+      "project_name": "Kerrigan",
+      "symbol": "KRGN",
+      "listed_type": "listed",
+      "published_at": "2026-04-11 09:08:42",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/45010949293325-Kerrigan-KRGN-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://kerrigan.network/"
+      ],
+      "contact_links": [
+        "https://github.com/kerrigan-network",
+        "https://discord.gg/V9P3UDjkFu",
+        "https://x.com/kerrigannetwork",
+        "https://github.com/kerrigan-network/kerrigan"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "LiteDAG ($LDG) has been listed on SafeTrade!",
+      "project_name": "LiteDAG",
+      "symbol": "LDG",
+      "listed_type": "listed",
+      "published_at": "2026-04-10 07:53:33",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/44980438926477-LiteDAG-LDG-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://litedag.com/"
+      ],
+      "contact_links": [
+        "https://discord.gg/Kx5qtH6Jm2",
+        "https://x.com/LiteDAGProtocol",
+        "https://t.me/litedag_en",
+        "https://github.com/litedag-chain"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "Snap Coin ($SNAP) has been listed on SafeTrade!",
+      "project_name": "Snap Coin",
+      "symbol": "SNAP",
+      "listed_type": "listed",
+      "published_at": "2026-02-05 03:19:08",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/43251064549389-Snap-Coin-SNAP-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://snap-coin.net/"
+      ],
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
+    },
+    {
+      "title": "Cryptix Network ($CPAY) has been listed on SafeTrade!",
+      "project_name": "Cryptix Network",
+      "symbol": "CPAY",
+      "listed_type": "listed",
+      "published_at": "2026-01-21 02:25:44",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/42824488529549-Cryptix-Network-CPAY-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://cryptix-network.org/"
+      ],
+      "contact_links": [],
+      "priority": "中",
+      "reason": "有官网，但社区入口或热门叙事信息不完整。"
+    },
+    {
+      "title": "Vecno ($VE) has been listed on SafeTrade!",
+      "project_name": "Vecno",
+      "symbol": "VE",
+      "listed_type": "listed",
+      "published_at": "2026-01-21 02:22:30",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/42824407441421-Vecno-VE-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://vecnofoundation.org/"
+      ],
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
+    },
+    {
+      "title": "Neptune ($XNT) has been listed on SafeTrade!",
+      "project_name": "Neptune",
+      "symbol": "XNT",
+      "listed_type": "listed",
+      "published_at": "2025-12-12 07:45:01",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/41868425629965-Neptune-XNT-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://neptune.io/"
+      ],
+      "contact_links": [
+        "https://github.com/neptuneprivacy",
+        "https://x.com/NeptunePrivacy",
+        "https://t.me/neptuneprivacy",
+        "https://discord.com/invite/neptuneprivacy",
+        "https://neptune.io/contact-us"
+      ],
+      "priority": "中",
+      "reason": "有官网，但社区入口或热门叙事信息不完整。"
+    },
+    {
+      "title": "Gonka ($GNK) has been listed on SafeTrade!",
+      "project_name": "Gonka",
+      "symbol": "GNK",
+      "listed_type": "listed",
+      "published_at": "2025-12-12 07:37:03",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/41868303165965-Gonka-GNK-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://gonka.ai/"
+      ],
+      "contact_links": [
+        "https://github.com/gonka-ai/gonka/",
+        "https://x.com/gonka_ai",
+        "https://discord.com/invite/RADwCT2U6R",
+        "https://squidfunk.github.io/mkdocs-material/"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "Parallax ($LAX) has been listed on SafeTrade!",
+      "project_name": "Parallax",
+      "symbol": "LAX",
+      "listed_type": "listed",
+      "published_at": "2025-11-11 23:52:34",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/41047486962829-Parallax-LAX-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://parallaxchain.org/"
+      ],
+      "contact_links": [
+        "https://github.com/ParallaxProtocol/parallax",
+        "https://github.com/ParallaxProtocol",
+        "https://x.com/prlxchain",
+        "https://discord.gg/4Z4R3aAU3B",
+        "https://t.me/parallaxchain"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "Virel ($VRL) has been listed on SafeTrade!",
+      "project_name": "Virel",
+      "symbol": "VRL",
+      "listed_type": "listed",
+      "published_at": "2025-08-21 20:56:34",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/38984229742221-Virel-VRL-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://virel.org/"
+      ],
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
+    },
+    {
+      "title": "Arbitrum ($ARB) has been listed on SafeTrade!",
+      "project_name": "Arbitrum",
+      "symbol": "ARB",
+      "listed_type": "listed",
+      "published_at": "2025-08-01 07:24:37",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/38485847075213-Arbitrum-ARB-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://arbitrum.io/"
+      ],
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
+    },
+    {
+      "title": "Qubitcoin ($QTC) has been listed on SafeTrade!",
+      "project_name": "Qubitcoin",
+      "symbol": "QTC",
+      "listed_type": "listed",
+      "published_at": "2025-07-15 05:49:47",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/38058100581645-Qubitcoin-QTC-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://superquantum.io/qubitcoin"
+      ],
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
+    },
+    {
+      "title": "Nockchain ($NOCK) has been listed on SafeTrade!",
+      "project_name": "Nockchain",
+      "symbol": "NOCK",
+      "listed_type": "listed",
+      "published_at": "2025-05-27 20:16:07",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/36932305411469-Nockchain-NOCK-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://www.nockchain.org/"
+      ],
+      "contact_links": [
+        "https://github.com/nockchain/nockchain",
+        "https://x.com/nockchain",
+        "https://github.com/nockchain",
+        "https://t.me/nockchainproject"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "The Tari Project ($XTM) has been listed on SafeTrade!",
+      "project_name": "The Tari Project",
+      "symbol": "XTM",
+      "listed_type": "listed",
+      "published_at": "2025-05-16 01:33:51",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/36641909547661-The-Tari-Project-XTM-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://www.tari.com"
+      ],
+      "contact_links": [
+        "https://twitter.com/tari",
+        "https://t.me/tariproject",
+        "https://discord.gg/tari",
+        "https://github.com/tari-project",
+        "https://www.youtube.com/channel/UCFjcsEiAtr9mC1Yt0uJ-3xA"
+      ],
+      "priority": "中",
+      "reason": "有官网，但社区入口或热门叙事信息不完整。"
+    }
+  ]
+}
