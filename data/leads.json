@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-07-30T04:07:32.322245+00:00",
+  "generated_at": "2026-07-31T04:24:23.051658+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
     "total": 19,
-    "highPriority": 8,
-    "withContacts": 12
+    "highPriority": 9,
+    "withContacts": 13
   },
   "items": [
     {
@@ -291,9 +291,11 @@
       "project_links": [
         "https://superquantum.io/qubitcoin"
       ],
-      "contact_links": [],
-      "priority": "低",
-      "reason": "项目方入口较少，需要人工二次确认。"
+      "contact_links": [
+        "mailto:david@superquantum.io"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
     },
     {
       "title": "Nockchain ($NOCK) has been listed on SafeTrade!",
