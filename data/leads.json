@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-08-10T03:12:14.554788+00:00",
+  "generated_at": "2026-08-11T03:05:12.022518+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
     "total": 19,
-    "highPriority": 7,
-    "withContacts": 11
+    "highPriority": 6,
+    "withContacts": 10
   },
   "items": [
     {
@@ -73,12 +73,9 @@
       "project_links": [
         "https://modeloslab.xyz/"
       ],
-      "contact_links": [
-        "https://discord.gg/MZwtxBZBH7",
-        "https://github.com/modeloslab/modelos"
-      ],
-      "priority": "高",
-      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+      "contact_links": [],
+      "priority": "中",
+      "reason": "有官网，但社区入口或热门叙事信息不完整。"
     },
     {
       "title": "Satori ($SAT) relisted on SafeTrade!",
