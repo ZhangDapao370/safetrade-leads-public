@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-08-18T02:16:38.461747+00:00",
+  "generated_at": "2026-08-19T02:19:12.955008+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
     "total": 20,
     "highPriority": 8,
-    "withContacts": 12
+    "withContacts": 11
   },
   "items": [
     {
@@ -114,14 +114,9 @@
         "https://cryptoscope.io/evrmore/asset/?asset_id=f4456649be4108b2f0cfadda051ee14b5df6e06f",
         "https://satorinet.io"
       ],
-      "contact_links": [
-        "https://twitter.com/Evrcoin",
-        "https://discord.gg/4csauGuvw3",
-        "https://t.me/Evrmorecoin",
-        "https://github.com/EvrmoreOrg"
-      ],
-      "priority": "中",
-      "reason": "有官网，但社区入口或热门叙事信息不完整。"
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
     },
     {
       "title": "Pearl ($PRL) has been listed on SafeTrade!",
@@ -344,10 +339,12 @@
       ],
       "contact_links": [
         "https://twitter.com/tari",
+        "https://bsky.app/profile/tariproject.bsky.social",
+        "https://mastodon.social/@tariproject",
         "https://t.me/tariproject",
         "https://discord.gg/tari",
         "https://github.com/tari-project",
-        "https://www.youtube.com/channel/UCFjcsEiAtr9mC1Yt0uJ-3xA"
+        "https://www.youtube.com/@taricommunity"
       ],
       "priority": "中",
       "reason": "有官网，但社区入口或热门叙事信息不完整。"
