@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-08-26T02:25:35.138508+00:00",
+  "generated_at": "2026-08-27T10:59:36.624530+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
@@ -248,7 +248,7 @@
       "contact_links": [
         "https://github.com/gonka-ai/gonka/",
         "https://x.com/gonka_ai",
-        "https://discord.com/invite/RADwCT2U6R",
+        "https://discord.gg/REcpeYc7P7",
         "https://squidfunk.github.io/mkdocs-material/"
       ],
       "priority": "高",
