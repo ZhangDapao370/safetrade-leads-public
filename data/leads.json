@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-08-27T10:59:36.624530+00:00",
+  "generated_at": "2026-08-28T12:34:28.605464+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
     "total": 20,
-    "highPriority": 7,
-    "withContacts": 11
+    "highPriority": 8,
+    "withContacts": 12
   },
   "items": [
     {
@@ -264,9 +264,16 @@
       "project_links": [
         "https://parallaxchain.org/"
       ],
-      "contact_links": [],
-      "priority": "中",
-      "reason": "有官网，但社区入口或热门叙事信息不完整。"
+      "contact_links": [
+        "https://github.com/ParallaxProtocol/parallax",
+        "https://github.com/ParallaxProtocol",
+        "https://x.com/prlxchain",
+        "https://discord.gg/4Z4R3aAU3B",
+        "https://t.me/parallaxchain",
+        "https://parallaxchain.org/en/resources/community"
+      ],
+      "priority": "高",
+      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
     },
     {
       "title": "Virel ($VRL) has been listed on SafeTrade!",
