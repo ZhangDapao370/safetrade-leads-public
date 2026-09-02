@@ -1,15 +1,33 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-09-01T06:06:47.688051+00:00",
+  "generated_at": "2026-09-02T05:32:09.543118+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
     "total": 20,
     "highPriority": 8,
-    "withContacts": 12
+    "withContacts": 11
   },
   "items": [
+    {
+      "title": "Parano1d ($NOID) has been listed on SafeTrade!",
+      "project_name": "Parano1d",
+      "symbol": "NOID",
+      "listed_type": "listed",
+      "published_at": "2026-09-01 04:17:32",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/48550294413581-Parano1d-NOID-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://parano1d.org/"
+      ],
+      "contact_links": [
+        "https://github.com/ignotusnemo/parano1d",
+        "https://github.com/ignotusnemo/parano1d-soundness",
+        "https://github.com/ignotusnemo"
+      ],
+      "priority": "中",
+      "reason": "有官网，但社区入口或热门叙事信息不完整。"
+    },
     {
       "title": "TensorCash ($TSC) has been listed on SafeTrade!",
       "project_name": "TensorCash",
@@ -111,14 +129,9 @@
         "https://cryptoscope.io/evrmore/asset/?asset_id=f4456649be4108b2f0cfadda051ee14b5df6e06f",
         "https://satorinet.io"
       ],
-      "contact_links": [
-        "https://twitter.com/Evrcoin",
-        "https://discord.gg/4csauGuvw3",
-        "https://t.me/Evrmorecoin",
-        "https://github.com/EvrmoreOrg"
-      ],
-      "priority": "中",
-      "reason": "有官网，但社区入口或热门叙事信息不完整。"
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
     },
     {
       "title": "Pearl ($PRL) has been listed on SafeTrade!",
@@ -335,28 +348,6 @@
       ],
       "priority": "高",
       "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
-    },
-    {
-      "title": "The Tari Project ($XTM) has been listed on SafeTrade!",
-      "project_name": "The Tari Project",
-      "symbol": "XTM",
-      "listed_type": "listed",
-      "published_at": "2025-05-16 01:33:51",
-      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/36641909547661-The-Tari-Project-XTM-has-been-listed-on-SafeTrade",
-      "project_links": [
-        "https://www.tari.com"
-      ],
-      "contact_links": [
-        "https://twitter.com/tari",
-        "https://bsky.app/profile/tariproject.bsky.social",
-        "https://mastodon.social/@tariproject",
-        "https://t.me/tariproject",
-        "https://discord.gg/tari",
-        "https://github.com/tari-project",
-        "https://www.youtube.com/@taricommunity"
-      ],
-      "priority": "中",
-      "reason": "有官网，但社区入口或热门叙事信息不完整。"
     }
   ]
 }
