@@ -1,15 +1,29 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-09-09T05:47:38.493651+00:00",
+  "generated_at": "2026-09-10T05:42:13.459320+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
     "total": 20,
-    "highPriority": 8,
-    "withContacts": 12
+    "highPriority": 7,
+    "withContacts": 11
   },
   "items": [
+    {
+      "title": "Quantus ($QUAN) has been listed on SafeTrade!",
+      "project_name": "Quantus",
+      "symbol": "QUAN",
+      "listed_type": "listed",
+      "published_at": "2026-09-10 06:06:19",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/48787585602317-Quantus-QUAN-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://www.quantus.com/"
+      ],
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
+    },
     {
       "title": "Parano1d ($NOID) has been listed on SafeTrade!",
       "project_name": "Parano1d",
@@ -332,25 +346,6 @@
       "contact_links": [],
       "priority": "低",
       "reason": "项目方入口较少，需要人工二次确认。"
-    },
-    {
-      "title": "Nockchain ($NOCK) has been listed on SafeTrade!",
-      "project_name": "Nockchain",
-      "symbol": "NOCK",
-      "listed_type": "listed",
-      "published_at": "2025-05-27 20:16:07",
-      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/36932305411469-Nockchain-NOCK-has-been-listed-on-SafeTrade",
-      "project_links": [
-        "https://www.nockchain.org/"
-      ],
-      "contact_links": [
-        "https://github.com/nockchain/nockchain",
-        "https://x.com/nockchain",
-        "https://github.com/nockchain",
-        "https://t.me/nockchainproject"
-      ],
-      "priority": "高",
-      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
     }
   ]
 }
