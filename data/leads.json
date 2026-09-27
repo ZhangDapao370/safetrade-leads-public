@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-09-26T05:57:12.877489+00:00",
+  "generated_at": "2026-09-27T06:23:25.280877+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
     "total": 20,
     "highPriority": 8,
-    "withContacts": 12
+    "withContacts": 13
   },
   "items": [
     {
@@ -33,6 +33,23 @@
       ],
       "priority": "高",
       "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+    },
+    {
+      "title": "Bitcoin Blake2b ($XBT) has been listed on SafeTrade!",
+      "project_name": "Bitcoin Blake2b",
+      "symbol": "XBT",
+      "listed_type": "listed",
+      "published_at": "2026-09-07 06:49:57",
+      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/48712201617933-Bitcoin-Blake2b-XBT-has-been-listed-on-SafeTrade",
+      "project_links": [
+        "https://bitcoinbip110.org/"
+      ],
+      "contact_links": [
+        "https://github.com/bitcoin-core",
+        "https://github.com/bitcoinknots/bitcoin"
+      ],
+      "priority": "中",
+      "reason": "有官网，但社区入口或热门叙事信息不完整。"
     },
     {
       "title": "Parano1d ($NOID) has been listed on SafeTrade!",
@@ -341,20 +358,6 @@
       "announcement_url": "https://support.safetrade.com/hc/en-us/articles/38485847075213-Arbitrum-ARB-has-been-listed-on-SafeTrade",
       "project_links": [
         "https://arbitrum.io/"
-      ],
-      "contact_links": [],
-      "priority": "低",
-      "reason": "项目方入口较少，需要人工二次确认。"
-    },
-    {
-      "title": "Qubitcoin ($QTC) has been listed on SafeTrade!",
-      "project_name": "Qubitcoin",
-      "symbol": "QTC",
-      "listed_type": "listed",
-      "published_at": "2025-07-15 05:49:47",
-      "announcement_url": "https://support.safetrade.com/hc/en-us/articles/38058100581645-Qubitcoin-QTC-has-been-listed-on-SafeTrade",
-      "project_links": [
-        "https://superquantum.io/qubitcoin"
       ],
       "contact_links": [],
       "priority": "低",
