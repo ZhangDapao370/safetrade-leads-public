@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-09-27T06:23:25.280877+00:00",
+  "generated_at": "2026-09-28T06:26:23.333691+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
@@ -63,6 +63,7 @@
       ],
       "contact_links": [
         "https://x.com/ignotus_nemo",
+        "https://discord.gg/MxtdCBm2S9",
         "https://github.com/proof-native/parano1d"
       ],
       "priority": "中",
