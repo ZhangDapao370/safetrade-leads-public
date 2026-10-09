@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-10-08T07:05:46.650187+00:00",
+  "generated_at": "2026-10-09T07:13:30.445692+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
     "total": 20,
-    "highPriority": 8,
-    "withContacts": 12
+    "highPriority": 7,
+    "withContacts": 11
   },
   "items": [
     {
@@ -81,18 +81,9 @@
       "project_links": [
         "https://tensorcash.org"
       ],
-      "contact_links": [
-        "mailto:contact@tensorcash.org?subject=Press",
-        "https://x.com/Tensorcash",
-        "https://t.me/TensorCash_org",
-        "https://discord.gg/xR6CjKm4EY",
-        "https://x.com/intent/post?text=from%20potatoes%20to%20TensorCash%E2%80%A6%20financial%20systems%20and%20AI%20that%20work%20for%20everyone%2C%20check%20out&url=https%3A%2F%2Ftensorcash.org%2F",
-        "https://t.me/share/url?url=https%3A%2F%2Ftensorcash.org%2F&text=from%20potatoes%20to%20TensorCash%E2%80%A6%20financial%20systems%20and%20AI%20that%20work%20for%20everyone%2C%20check%20out",
-        "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftensorcash.org%2F",
-        "mailto:?subject=from%20potatoes%20to%20TensorCash%E2%80%A6%20financial%20systems%20and%20AI%20that%20work%20for%20everyone%2C%20check%20out&body=from%20potatoes%20to%20TensorCash%E2%80%A6%20financial%20systems%20and%20AI%20that%20work%20for%20everyone%2C%20check%20out%0A%0Ahttps%3A%2F%2Ftensorcash.org%2F"
-      ],
-      "priority": "高",
-      "reason": "有官网、有社区或代码入口，并且叙事偏 AI/算力/基础设施。"
+      "contact_links": [],
+      "priority": "低",
+      "reason": "项目方入口较少，需要人工二次确认。"
     },
     {
       "title": "Midstate ($MDS) has been listed on SafeTrade!",
