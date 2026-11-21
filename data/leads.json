@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "public_read_only": true,
-  "generated_at": "2026-11-20T08:11:49.759547+00:00",
+  "generated_at": "2026-11-21T08:04:40.415248+00:00",
   "timezone": "Asia/Shanghai",
   "source": "https://support.safetrade.com/hc/en-us/sections/360002787112-Announcements",
   "summary": {
@@ -10,6 +10,25 @@
     "withContacts": 3
   },
   "items": [
+    {
+      "title": "SafeTrade Help Center",
+      "project_name": "SafeTrade Help Center",
+      "symbol": "",
+      "listed_type": "unknown",
+      "published_at": "",
+      "announcement_url": "https://support.safetrade.com/announcements/neural-engine-byte-listing",
+      "project_links": [
+        "https://www.reddit.com/r/SafeTradex"
+      ],
+      "contact_links": [
+        "https://t.me/SafeTradeEx",
+        "https://x.com/safetrade",
+        "https://discord.com/invite/safecoin",
+        "https://discord.gg/zFG9Drazvy"
+      ],
+      "priority": "中",
+      "reason": "有官网，但社区入口或热门叙事信息不完整。"
+    },
     {
       "title": "SafeTrade Help Center",
       "project_name": "SafeTrade Help Center",
@@ -36,25 +55,6 @@
       "listed_type": "unknown",
       "published_at": "",
       "announcement_url": "https://support.safetrade.com/announcements/blocknet-listing",
-      "project_links": [
-        "https://www.reddit.com/r/SafeTradex"
-      ],
-      "contact_links": [
-        "https://t.me/SafeTradeEx",
-        "https://x.com/safetrade",
-        "https://discord.com/invite/safecoin",
-        "https://discord.gg/zFG9Drazvy"
-      ],
-      "priority": "中",
-      "reason": "有官网，但社区入口或热门叙事信息不完整。"
-    },
-    {
-      "title": "SafeTrade Help Center",
-      "project_name": "SafeTrade Help Center",
-      "symbol": "",
-      "listed_type": "unknown",
-      "published_at": "",
-      "announcement_url": "https://support.safetrade.com/announcements/soqucoin-listing",
       "project_links": [
         "https://www.reddit.com/r/SafeTradex"
       ],
